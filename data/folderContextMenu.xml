@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+<menu id="0">
+
+		<item text="Add Item" img="add_folder.png" id="addItem"></item>
+		<item text="Import File" img="paper-plane.png" id="imprtFile"></item>
+        <item text="Delete" img="x-button.png" id="delete"></item>
+		<item text="Reload" img="refresh.png" id="reload"></item>
+		
+</menu>
